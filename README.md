@@ -2,7 +2,8 @@
 ejercicios resueltos por mi de la pagina AceptaelReto.com
 
 
-## ITERATIVOS-aceptaelReto
+## [ITERATIVOS-aceptaelReto](https://github.com/JoseIgnacioBarrios/AceptaelRetoCplusplus/tree/main/ITERATIVOS-aceptaelreto)
+
 
   1-realizado con C++ .
   
