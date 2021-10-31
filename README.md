@@ -16,4 +16,4 @@ ejercicios resueltos por mi de la pagina AceptaelReto.com
 ## [RECURSIVO-aceptaelReto](https://github.com/JoseIgnacioBarrios/AceptaelRetoCplusplus/tree/main/Recursivo-aceptaelreto)
   1- Ejercicios con c++ .
   
-  2- realizado con pensado con Estructura iterativos .
+  2- realizado con pensado con Estructura recursiva .
