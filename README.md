@@ -17,3 +17,10 @@ ejercicios resueltos por mi de la pagina AceptaelReto.com
   1- Ejercicios con c++ .
   
   2- realizado con pensado con Estructura recursiva .
+  
+## [RECURSIVO-aceptaelReto](https://github.com/JoseIgnacioBarrios/Proyecto-C-AceptaelRetoCplusplus/tree/main/DivideVenceras-aceptaelreto)
+  1- Ejercicios con c++ .
+
+  2- realizado con pensado con Estructura Divide venceras .
+  
+    2-1 Ideas felices
