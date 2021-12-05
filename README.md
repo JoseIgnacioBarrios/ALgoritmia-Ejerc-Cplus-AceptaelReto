@@ -24,3 +24,7 @@ ejercicios resueltos por mi de la pagina AceptaelReto.com
   2- realizado con pensado con Estructura Divide venceras .
   
     2-1 Ideas felices
+## [Vuelta-Atras](https://github.com/JoseIgnacioBarrios/Proyecto-C-AceptaelRetoCplusplus/tree/main/VueltaAtras)
+  1- Ejercicios con c++ .
+  
+  2- realizado con pensado con Estructura Vuelta atras .
